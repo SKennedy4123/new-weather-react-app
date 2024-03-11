@@ -6,7 +6,7 @@ export default function Footer() {
       <footer>
         <p>
           This project was coded by:{" "}
-          <a href="https://github.com/SKennedy4123" target="_blank" rel="noreferer">
+          <a href="https://github.com/SKennedy4123" target="_blank" rel="noreferrer">
             Sarah Kennedy.
           </a>
         </p>
