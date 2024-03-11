@@ -7,7 +7,7 @@ export default function CurrentWeather() {
         New York City
       </h1>
       <p class="current-details">
-        <span id="current-date"></span>, <span id="description"></span>
+        <span id="current-date"></span> <span id="description"></span>
         <br />
         Humidity: 20°
         <strong>
